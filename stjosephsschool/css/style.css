@@ -1,0 +1,502 @@
+ * 
+ { 
+
+    margin: 0px;
+
+  }
+ .header_baar
+ {
+  width: 100%; 
+  height: 50px; 
+  background-color: #000080; 
+  position:sticky; 
+  top:0px; 
+ } 
+ .header_baar1 
+ {
+  width: 25%; 
+  height: 50px; 
+  background-color:#000080 ; 
+  border: 2px solid white; 
+  float: left;
+ }   
+ .header_baar2 
+{
+  width: 50%; 
+  height: 50px; 
+  background-color: #000080; 
+  float:left; 
+  border: 2px solid white;
+} 
+.email_1 
+{
+  color: white;  
+  margin-left: 220px; 
+  line-height: 50px;
+}
+.images_messages 
+{
+  width: 20px; 
+  height: 17px; 
+  margin-left:-245px; 
+   
+} 
+.telephone 
+{
+  width:30px; 
+  height: 18px;  
+  margin-top: 15px; 
+  margin-left: 20px; 
+
+} 
+.telephone_number 
+{ 
+  color: white; 
+  margin-left: 70px; 
+  margin-top:-15px;
+
+ } 
+ .login_form1 
+ {
+  text-align: center; 
+  line-height: 50px; 
+  color: white;
+ } 
+ .img_1 
+{
+  margin-left: -1400px; 
+  margin-top: 30px; 
+  width: 80px; 
+  height: 50px;
+} 
+.school_name 
+{
+  margin-left: 140px; 
+  margin-top: -50px; 
+  color:#00BFFF;
+} 
+.Navigation_baar ul 
+{
+  list-style: none; 
+} 
+.Navigation_baar ul li 
+{
+  background-color: white; 
+  border: 1px solid whitesmoke; 
+  width: 200px; 
+  height: 100px; 
+  float: left; 
+  text-align: center; 
+  line-height: 100px; 
+  margin-left: 90px; 
+  border: 1px solid whitesmoke;  
+  position:relative;
+   
+} 
+.Navigation_baar ul li a 
+{
+  text-decoration:none ; 
+} 
+.Navigation_baar ul li:hover 
+{
+  background:#008080 ;
+} 
+.Navigation_baar ul li:hover>ul
+{
+  display: block;
+} 
+.Navigation_baar ul ul  
+{
+  display: none; 
+
+}  
+.Navigation_baar ul ul 
+{ 
+  margin-left: -130px;
+
+}
+ 
+.box_12 
+{
+   width: 100%; 
+   height: 400px;
+   position:relative;
+   margin: 10px auto;
+   overflow: hidden; 
+ } 
+ .box_12 img 
+ {
+   width: 100%; 
+   height:400px; 
+   position: relative;
+ } 
+ .container
+  {    
+  border: 2px solid black;
+  color: #fff;
+  width: 100%;
+ height:400px;
+ padding: 20px;  
+ position: absolute;
+ top: -450px;                        
+ background: rgba(0,0,0,0.1);
+ transition: all 0.5s; 
+} 
+.box_12:hover .container
+{
+   top: 0px;
+ } */
+ .name_school1 
+ {
+  color:#00BFFF;
+ } 
+ .name_school2 
+ {
+  color: black;
+ }
+.box_1 
+{
+  width: 100%; 
+  height: 40px; 
+  background-color:#000080 ; 
+  margin-top: -9px;
+} 
+.marquee_heading_1 
+{
+  line-height: 40px; 
+  text-align: center; 
+  color: white; 
+ 
+
+} 
+.user_name1 
+{
+  width: 400px; 
+  height: 100px; 
+  background-color:white; 
+  margin-left: 670px; 
+  margin-top: 20px;  
+  transition:width,height 10s,5s;
+}  
+.user_name1:hover 
+{
+  width:470px; 
+  height: 150px;
+} 
+.user_name_1 
+{
+  color:black; 
+  line-height: 100px; 
+  text-align: center; 
+  transition: height 50s;   
+}
+.user_name2
+{
+  margin-top:30px; 
+  margin-left: 300px; 
+  font-size: 15px;
+} 
+.user_name3 
+{
+  margin-top: 10px; 
+  margin-left:850px; 
+  font-size: 15px;
+} 
+.user_name4 
+{ 
+  margin-top: 30px; 
+  margin-left: 600px;
+} 
+.box_2 
+{
+  width: 100%; 
+  height: 400px; 
+  background-color:whitesmoke; 
+  margin-top:90px;
+} 
+.box_3 
+{
+  width:16%; 
+  height:400px; 
+  background-color:whitesmoke; 
+  border: 1px solid whitesmoke; 
+  float: left;  
+  margin-left: 310px; 
+  border: 2px solid black;
+} 
+.box_3:hover 
+{
+  background-color: #376092;
+} 
+.box_user3 
+{
+  margin-top:180px;  
+  text-align: center;
+} 
+.input1 
+{
+  margin-top: 40px; 
+  margin-left: 100px; 
+  width: 100px; 
+  height: 35px; 
+} 
+.principal_name1 
+{
+  margin-top:-300px; 
+  text-align: center;
+} 
+.parents_box6 
+{
+  width: 16%; 
+  height: 400px; 
+  background-color:whitesmoke; 
+  float: left; 
+  border: 2px solid black;
+} 
+.parents_user6 
+{
+  text-align: center; 
+  margin-top:180px;
+} 
+.parents_name6 
+{
+  text-align:center ; 
+  margin-top: -220px;
+} 
+.parents_box6:hover
+{
+  background-color:#376092 ;
+} 
+.input2 
+{
+  margin-top: 180px; 
+  width: 100px; 
+  height: 35px; 
+  margin-left: 90px;
+} 
+.rules_box7 
+{
+  width: 16%; 
+  height:400px; 
+  background-color:whitesmoke; 
+  float: left; 
+  border: 2px solid black;
+} 
+.rules_user7 
+{
+  text-align: center; 
+  margin-top: 180px;
+} 
+.rules_name7 
+{
+  text-align: center; 
+  margin-top: -220px;
+} 
+.input3 
+{
+  margin-top: 180px; 
+  width: 100px; 
+  height: 35px; 
+  margin-left: 90px;
+} 
+.rules_box7:hover 
+{
+  background-color:#376092 ;
+} 
+.details_box8 
+{
+  width: 16%; 
+  height: 400px; 
+  background: whitesmoke; 
+  float: left; 
+  border:2px solid black;
+} 
+.details_user8 
+{
+  text-align: center; 
+  margin-top: 180px;
+} 
+.details_name8 
+{
+  text-align: center; 
+  margin-top: -160px;
+} 
+.input4
+{
+  margin-top: 173px; 
+  width: 100px; 
+  height: 35px; 
+  margin-left: 90px;
+} 
+.details_box8:hover 
+{
+  background-color:#376092 ;
+} 
+.box_10 
+{
+ width: 100%; 
+ height: 400px; 
+ background-color: black; 
+ margin-top: -13px; 
+
+} 
+.touch 
+{
+  width: 33%; 
+  height: 400px; 
+  background-color:black; 
+  float: left; 
+  
+} 
+.touch_1 
+{
+  line-height: 400px; 
+  text-align: center; 
+  color: white; 
+  margin-left:-30px;
+}  
+.touch_2 
+{
+  color: white; 
+  margin-top: -160px; 
+  margin-left: 200px;
+}
+.tweets 
+{
+  width: 33%; 
+  height: 400px;  width: ;
+  background-color: black; 
+  float: left; 
+  
+
+}  
+.tweets_1 
+{
+  line-height: 400px; 
+  text-align: center; 
+  color: white;
+}
+.stream 
+{
+  width: 34%; 
+  height: 400px; 
+  background-color:black; 
+  float: left; 
+
+} 
+.stream_1 
+{
+  line-height: 400px; 
+  text-align: center; 
+  color: white;
+} 
+.school_location 
+{
+  color: white;  
+  margin-left: 200px; 
+  margin-top: 10px;
+} 
+.number_touch 
+{
+  color: white; 
+  margin-left: 200px; 
+  margin-top: 15px;
+} 
+.school_map_location 
+{
+  color: white; 
+  margin-left: 173px; 
+  margin-top: 5px;
+} 
+.school_circulars_location 
+{
+  position:relative;
+  bottom: 160px;
+  left: 220px; 
+  color: white;
+} 
+.school_hours 
+{
+  position: relative; 
+  bottom: 130px; 
+  color: white; 
+  left: 60px; 
+} 
+.image_gallery 
+{
+  position: relative; 
+  bottom: 165px; 
+  color: white; 
+  left: 240px;
+} 
+.video_gallery 
+{
+  position: relative; 
+  color: white; 
+  bottom: 130px; 
+  left:110px;
+} 
+.tournament_1 
+{
+  width: 25px; 
+  height: 20px; 
+  position: relative; 
+  bottom: 162px; 
+  left: -540px;
+} 
+.tournament_2 
+{
+  width: 25px; 
+  height: 20px; 
+  position: relative; 
+  bottom: 130px; 
+  left:-660px; 
+} 
+.gallery_1 
+{
+  width:30px; 
+  height: 25px; 
+  position: relative; 
+  bottom: 158px; 
+  left: -45px;
+} 
+.gallery_2 
+{
+  width: 30px; 
+  height: 25px; 
+  position: relative; 
+  bottom: 120px; 
+  left: -80px; 
+
+} 
+.imag_map 
+{
+  width: 20px; 
+  height: 20px; 
+  position: relative; 
+  bottom: -7px; 
+  left: -120px;
+} 
+.imag_telephone1 
+{
+  width: 20px; 
+  height: 20px; 
+  position:relative ; 
+  bottom: 40px; 
+  left: 170px;
+}  
+.name_1 
+{
+ margin-top: 10px;
+  
+} 
+.facebook_images 
+{
+  margin-left: 690px; 
+  margin-top:-25px; 
+  width:30px; 
+  height: 35px;
+} 
+
+ 
+
